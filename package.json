@@ -27,7 +27,7 @@
     "blipp": "^4.0.1",
     "cors": "^2.8.5",
     "hapi-swagger": "^10.3.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mysql2": "^2.1.0",
     "promise": "^8.1.0",
     "require-directory": "^2.1.1",
